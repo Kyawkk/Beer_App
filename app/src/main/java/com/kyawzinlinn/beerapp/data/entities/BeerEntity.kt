@@ -24,4 +24,4 @@ data class BeerEntity(
     val tagline: String?,
     val targetFg: String?,
     val targetOg: String?,
-): Serializable
+)
