@@ -1,3 +1,5 @@
+# Beer App
+
 **An app that shows types of beer from punk api.**
 
 ### Architecture
