@@ -1,6 +1,6 @@
 # Beer App
 
-**An app that shows types of beer from punk api.**
+**This app shows list of beer from [Punk API](https://punkapi.com/documentation/v2).**
 
 ### Architecture
 
